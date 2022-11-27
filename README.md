@@ -1,4 +1,4 @@
 # christopherarnold.au
 christopherarnold.au
 
-[here](docs/landing.html)
+[here](index.html)
